@@ -1,0 +1,27 @@
+# PyCharm
+.idea/
+*.iml
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Логи и временные файлы
+scraper.log
+page_source_initial.html
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Виртуальное окружение
+venv/
+.env/
+env/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
